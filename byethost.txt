@@ -1,0 +1,10 @@
+Control panel username:	b7_32713028
+Control panel password:	**********
+Control panel URL:	cpanel.byethost7.com
+MySQL username	b7_32713028
+MySQL password:	**********
+MySQL hostname:	sql205.byethost7.com
+FTP username:	b7_32713028
+FTP password:	**********
+FTP host name:	ftp.byethost7.com
+Your Website URL:	http://quocthang.byethost7.com
