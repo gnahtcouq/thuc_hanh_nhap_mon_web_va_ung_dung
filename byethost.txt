@@ -8,3 +8,14 @@ FTP username:	b7_32713028
 FTP password:	**********
 FTP host name:	ftp.byethost7.com
 Your Website URL:	http://quocthang.byethost7.com
+
+Cpanel Username: b7_32713028
+Cpanel Password: LA..123@1234
+Your URL: http://quocthang.byethost7.com or http://www.quocthang.byethost7.com
+FTP Server : ftpupload.net
+FTP Login : b7_32713028
+FTP Password : LA..123@1234
+MySQL Database Name: MUST CREATE IN CPANEL
+MySQL Username : b7_32713028
+MySQL Password : LA..123@1234
+MySQL Server: SEE THE CPANEL
